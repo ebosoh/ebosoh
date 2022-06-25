@@ -1,1 +1,1 @@
-Hi Iam Hudson Eboso Omunga, a Computer Science Student @ UoPeople. I am passionate about Web Development
+Hi I am Hudson Eboso Omunga, a Computer Science Student @ UoPeople. Passionate about Web Technologies
